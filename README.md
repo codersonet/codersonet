@@ -15,10 +15,10 @@
   <!-- QUICK BADGES / LINKS -->
   <p align="center">
     <a href="https://github.com/codersonet?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&logo=github&style=for-the-badge&color=238636&logoColor=white" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/codersonet?label=Followers&logo=github&style=for-the-badge&color=238636&logoColor=white" alt="Followers"/>
     </a>
     <a href="https://github.com/codersonet?tab=repositories">
-      <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Total%20Stars&logo=github&style=for-the-badge&color=e3b341&logoColor=white" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/codersonet?label=Total%20Stars&logo=github&style=for-the-badge&color=e3b341&logoColor=white" alt="Stars"/>
     </a>
     <a href="https://linkedin.com/in/sanidhyauniyal">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
