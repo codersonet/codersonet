@@ -42,3 +42,5 @@ researcher & developer:
   core_domain: [Quantum Sensing, VLSI, C, C++, R, Python]
   status: 🚀 Building the future of digital experiences
   interests: [Semiconductors, Chip Architecture, AI SSDs, Open Source]
+
+<br/>
