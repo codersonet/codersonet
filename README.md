@@ -37,7 +37,7 @@
 ## ⚡ <samp>About Me</samp>
 
 ```yaml
-developer:
+researcher & developer:
   name: Sanidhya Uniyal
   role: R&D
   core_domain: [Quantum Sensing, VLSI, C, C++, R, Python]
