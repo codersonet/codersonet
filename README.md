@@ -6,7 +6,7 @@
   <br/>
 
   <!-- DYNAMIC TYPING TEXT -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://codersonet.github.io/codersonet">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+scalable+%26+modern+web+apps...;Passionate+about+UI%2FUX+%26+Fluid+Animations...;Exploring+Cloud Native+%26+AI%2FML;Always+learning%2C+always+building..." alt="Typing SVG" />
   </a>
 
