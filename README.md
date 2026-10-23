@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FLUID / WAVE ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=280&section=header&text=Hello%20World!%20%F0%9F%90%B3&fontSize=60&fontAlignY=38&animation=twinkling&desc=SOLID-STATE-Devices%20%7C%20VLSI%20%7C%20Rust%20%7C%20Software%20Engineer%20%7C%20Design%20Architect&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=280&section=header&text=Hello%20World!%20%F0%9F%90%B3&fontSize=60&fontAlignY=38&animation=twinkling&desc=SOLID-STATE-Devices%20%7C%20VLSI%20%7C%20Rust%20%7C%20Software%20Engineer%20%7C%20Research%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br/>
 
