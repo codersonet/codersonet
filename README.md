@@ -38,7 +38,7 @@
 ```yaml
 researcher & developer:
   name: Sanidhya Uniyal
-  role: R&D
+  role: Research Engineer
   core_domain: [Quantum, VLSI, C, C++, R, Python, Software]
   status: 🚀 Building the future of digital experiences
   interests: [Semiconductors, Chip Architecture, AI SSDs, Open Source]
