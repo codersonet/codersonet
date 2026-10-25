@@ -25,6 +25,7 @@
     <a href="https://twitter.com/Sonet_Shanu">
       <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
     </a>
+    [![My commits](https://github-readme-stats.vercel.app/api?username=codersonet&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true)](https://github.com/codersonet/github-readme-stats)   
   </p>
 
 </div>
