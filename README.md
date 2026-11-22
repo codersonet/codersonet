@@ -39,6 +39,6 @@
 researcher & developer:
   name: Sanidhya Uniyal
   role: Research Engineer
-  core_domain: [Quantum, VLSI, C, C++, R, Python, Software]
+  core_domain: [Quantum, VLSI, Chip Designing, Embedded Systems, C, C++, R, Py]
   status: 🚀 Building the future of digital experiences
   interests: [Semiconductors, Chip Architecture, AI SSDs, Open Source]
